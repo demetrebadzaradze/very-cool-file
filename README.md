@@ -1,2 +1,2 @@
 # very-cool-file
-please for love of god dont run this on any computer
+please for love of god do not run this on any computer
